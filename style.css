@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 23px;
+    text-align: center;
+}
+
+body {
+    background-image: url("MHW.png");
+}
+
+
+h1,
+h2,
+h3 {
+    color: lightgreen;
+    text-shadow: 0 0 1px black, 0 0 1px black, 0 0 1px black, 0 0 1px black;
+}
+
+h3 {
+    color: white;
+}
+
+.button-pls-move {
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    color: red;
+}
